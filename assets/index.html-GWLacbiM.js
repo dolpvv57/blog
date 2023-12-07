@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c as o,a as e}from"./app-CONuJI3o.js";const s={},_=e("p",null,"欢迎来到我的博客。",-1),c=e("p",null,"Just play around and have fun.",-1),a=[_,c];function r(l,d){return n(),o("div",null,a)}const f=t(s,[["render",r],["__file","index.html.vue"]]);export{f as default};
